@@ -1,1 +1,1 @@
-Personel Protfolio Website.
+Personal Protfolio Website.
